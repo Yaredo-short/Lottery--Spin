@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
 });
 
 // ---- Full roster. This never changes. ----
-const ALL_PEOPLE = ['Yared', 'Yilkal', 'Temesgen', 'Mengistu', 'Melaku', 'Amanuel'];
+const ALL_PEOPLE = ['Yared', 'Yilkal', 'Temesgen', 'Mengistu', 'Melaku'];
 // ---------------------------------------------
 
 const SPIN_DURATION_MS = 6000;
